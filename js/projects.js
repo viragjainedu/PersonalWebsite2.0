@@ -24,3 +24,7 @@ $(this).removeClass("active");
 $(this).addClass("active");
 
 });
+
+$(document).ready(function(){
+    $('[data-toggle="tooltip"]').tooltip();   
+});

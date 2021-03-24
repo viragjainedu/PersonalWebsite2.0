@@ -1,6 +1,11 @@
+.projimage:hover{
+    max-width: 365px;
+    max-height: 365px;
+}
+
 .projimage{
-max-width: 365px;
-max-height: 365px;
+max-width: 350px;
+max-height: 350px;
 }
 .gallery-title
 {
@@ -50,5 +55,5 @@ max-height: 365px;
 
 .gallery_product
 {
-    margin-bottom: 30px;
+    background-color: #E6F4F3;
 }
