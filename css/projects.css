@@ -1,4 +1,7 @@
-
+.projimage{
+max-width: 365px;
+max-height: 365px;
+}
 .gallery-title
 {
     font-size: 36px;
